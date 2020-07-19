@@ -1,0 +1,46 @@
+.cont{
+    display: flex;
+    flex-wrap: wrap;
+	font-size: 20px;
+	
+	
+}
+.contt{
+    display: flex;
+    flex-wrap: wrap;
+	font-size: 30px;
+	
+	
+}
+.blue{
+    padding-left: 200px;
+    text-decoration: none;
+}
+.bluee{
+    padding-left: 250px;
+    text-decoration: none;
+}
+.cowry{
+    background-color: blue;
+    height: 70px;
+    color: white;
+    font-size: 45px;
+    padding-top: 20px ;
+}
+.cow{
+    color: blue;
+    font-size: 40px;
+}
+.id{
+    font-size: 30px;
+}
+.hr{
+    height: 10px;
+    background-color: blue;
+}
+.ids{
+    text-align: center;
+    color: blue;
+    font-size: 35px;
+    padding-top: 20px ;
+}

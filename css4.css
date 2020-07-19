@@ -1,0 +1,73 @@
+.body{
+    text-align: center;
+}
+
+.input{
+    width: 400px;
+    height: 30px;
+    border: white solid 3px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.forms{
+    display: inline-block;
+    background-color: rgb(224, 235, 240);
+    width: 500px;
+    height: 200px;
+    padding-top: 40px;
+    border: rgb(146, 146, 236) solid 5px;
+    border-radius: 20px;
+
+}
+.log{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border: blue solid 2px;
+    border-radius: 5px;
+  
+    
+}
+.still{
+    font-size: 30px;
+}
+.us{
+    text-decoration: none;
+    font-size: 30px;
+}
+.id{
+    text-align: center;
+    color: blue;
+    font-size: 35px;
+    padding-top: 20px ;
+}
+.errors{
+    color: red;
+    font-size: 20px;
+    padding-right: 190px;
+}
+.errorss{
+    color: red;
+    font-size: 20px;
+    padding-right: 80px;
+}
+.error{
+    color: red;
+    font-size: 20px;
+    padding-right: 145px;
+}
+.errrr{
+    color: red;
+    font-size: 20px;
+    padding-right: 135px;
+}
+.success{
+    background-color: green;
+    color: white;
+    display: inline-block;
+    width: 300px;
+    height: 20px;
+    text-transform: uppercase;
+    margin-bottom: 20px;    
+}

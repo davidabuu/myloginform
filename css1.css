@@ -1,0 +1,119 @@
+body{
+    background-color: rgb(201, 229, 245);
+    
+}
+.body{
+    text-align: center;
+}
+.cowry{
+    background-color: blue;
+    height: 80px;
+    color: white;
+    font-size: 45px;
+    padding-top: 20px ;
+}
+.icon{
+   
+    width: 40px;
+    border-radius: 20px;
+}
+.sign{
+    font-size: 40px;
+}
+.forms{
+    display: inline-block;
+    background-color: rgb(224, 235, 240);
+    width: 500px;
+    height: 270px;
+    padding-top: 40px;
+    border: rgb(146, 146, 236) solid 5px;
+    border-radius: 20px;
+
+}
+.input{
+    width: 400px;
+    height: 30px;
+    border: white solid 3px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.id{
+    text-align: center;
+    color: blue;
+    font-size: 35px;
+    padding-top: 20px ;
+}
+.center{
+    padding-right: 57%;
+  
+}
+.user{
+    padding-right: 24%;
+}
+.users{
+    padding-right: 2%;
+
+}
+.cow{
+    color: blue;
+    font-size: 40px;
+}
+.center{
+    padding-right: 210px;
+    text-decoration: none;
+    color: blue;
+    text-transform: uppercase;
+    font-size: 20px;
+
+    
+}
+.center:hover{
+    color: green;
+}
+.users{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.new{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border: blue solid 2px;
+    border-radius: 5px;
+   
+}
+.log{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border: blue solid 2px;
+    border-radius: 5px;
+   margin-right: 350px;
+    
+}
+.still{
+    font-size: 30px;
+}
+.us{
+    text-decoration: none;
+    font-size: 30px;
+}
+.error{
+    color: red;
+    font-size: 20px;
+    padding-right: 220px;
+}
+.errors{
+    color: red;
+    font-size: 20px;
+    padding-right: 190px;
+}
+.errorss{
+    color: red;
+    font-size: 20px;
+    padding-right: 80px;
+}

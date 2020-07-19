@@ -1,0 +1,56 @@
+.sign{
+    font-size: 40px;
+}
+.input{
+    width: 400px;
+    height: 30px;
+    border: white solid 3px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.body{
+    text-align: center;
+}
+.forms{
+    display: inline-block;
+    background-color: rgb(224, 235, 240);
+    width: 500px;
+    height: 100px;
+    padding-top: 40px;
+    border: rgb(146, 146, 236) solid 5px;
+    border-radius: 20px;
+
+}
+.still{
+    font-size: 30px;
+}
+.us{
+    text-decoration: none;
+    font-size: 30px;
+}
+.id{
+    text-align: center;
+    color: blue;
+    font-size: 35px;
+    padding-top: 20px ;
+}
+.new{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    font-size: 35px;
+    border: blue solid 2px;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+   
+}
+.new:hover{
+    color: rgb(109, 216, 252);
+}
+.error{
+    color: red;
+    font-size: 20px;
+    padding-right: 220px;
+}
